@@ -1,0 +1,56 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(alina.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn {
+  font-weight: 700px;
+  border-radius: 300px;
+  text-transform: uppercase;
+
+}
+h1 {
+  font-size: 4rem;
+  color: #912b35;
+  
+}
+
+hr {
+  border-color: #720711;
+  max-width: 55px;
+  border-width: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.buffer {
+  height: 8rem;
+}
+
+.btn-primary {
+  background-color: #720711;
+  border-color: #720711;
+
+
+}
+
+
+.btn-primary:hover {
+
+  background-color: lightpink;
+  border-radius: yellow;
+  border weidth:4px;
+
+}
+
+bth-xl {
+  
+  padding: 1rem 2rem;
+}
